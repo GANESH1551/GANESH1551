@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GANESH1551
+- 👋 Hi, I’m @GANESH
 - 👀 I’m interested in FRONTEND DEVELOPMENT
 - 🌱 I’m currently learning CHENNAI
 - 📫 How to reach me mrgganesh2001@gmail.com
